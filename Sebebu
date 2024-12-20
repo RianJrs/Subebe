@@ -2,5 +2,8 @@ _G.auto = true
 while _G.auto do
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(633, 12, 481)
 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(633, 12, 480)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(633, 12, 477)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(637, 12, 480)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(635, 12, 478)
 wait(1) 
 end
